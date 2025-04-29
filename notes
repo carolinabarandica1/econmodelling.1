@@ -42,4 +42,4 @@ static methods
 Property:
 
 @property → Allows  to access a method like an attribute.
-@methodname.setter → Lets us set the value of a property while controlling how it’s done.
+@methodname.setter → Lets us set the value of a property while controlling how it’s done
