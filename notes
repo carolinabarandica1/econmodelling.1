@@ -1,0 +1,45 @@
+ECONOMICMODELING&SIMULATION  ~/PycharmProjects/ECONOMICMODELING&SIMULATION
+  .venv
+    bin
+    lib
+    .gitignore
+    pyvenv.cfg
+External Libraries
+Scratches and Consoles
+
+
+
+Session 1,2 & 3
+Class --> is used to create objects. Also it help to define properties and methods of the obejects
+created.
+
+Instatiate object --> used to create an object from a class, which means a specific instance based on
+the class def.
+
+Magic methods.
+Special methods with double uderscores (before & after their names)
+__init__ → Constructor method that initializes an object’s attributes when it’s created.
+__str__ → Returns a user-friendly string representation of the object.
+__repr__ → Returns an official string representation, usually more technical.
+__gt__ , __eq__ , etc. → Comparison methods
+
+
+Inheritance --> alows a class to use properties and methods of another class,
+used for extending code
+
+
+Session #3
+Isintance() --> built function that checks whether an obj belongs to an specific type or class
+
+super()
+used in child class to call method of parent functions
+
+type of methods
+regular methods
+class methods
+static methods
+
+Property:
+
+@property → Allows  to access a method like an attribute.
+@methodname.setter → Lets us set the value of a property while controlling how it’s done.
